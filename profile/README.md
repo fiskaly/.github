@@ -14,6 +14,8 @@ fiskaly builds tools to make legal requirements for receipts simple. We help com
 
 fiskaly is the leading provider for a cloud-based solution regarding fiscalization in Germany and Austria. We are on a mission to make the world a safe and fair place by enabling trusted records. Our team provides a robust and reliable digital signature service to ensure the legitimacy of your receipts, while keeping the solution simple and convenient.
 
-### JOIN US 👩‍💻🧑‍💻
+### WORK WITH US 👩‍💻🧑‍💻
+
+Thrive, innovate and do your best work. Explore opportunities and join our mission to make fiscalization simpler, more secure and more efficient.
 
 In case you're interested joining our awesome team, head over to our [open positions](https://www.fiskaly.com/jobs)
