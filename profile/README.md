@@ -19,4 +19,4 @@
 > Thrive, innovate and do your best work. Explore opportunities and join our mission to make fiscalization simpler, more secure and more efficient.
 
 In case you're interested joining our awesome team, head over to our [open positions](https://www.fiskaly.com/jobs)
-And make sure to checkout our [developer documentation](developer.fiskaly.com), where we strive to give the best possible documentation out to our integrating developers!
+And make sure to checkout our [developer documentation](https://developer.fiskaly.com), where we strive to give the best possible documentation out to our integrating developers!
