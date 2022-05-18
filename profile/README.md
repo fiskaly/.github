@@ -6,7 +6,7 @@
 
 > Perfect products for fiscalization.
 
-[fiskaly](https://fiskaly.com) builds tools to make legal requirements for receipts simple. We help companies to easily integrate our products via API and offer a one click-solution for e-receipts and fiscalizing POS systems. Our solutions enable compliance in innovative POS systems for retailers, businesses and POS providers.
+[fiskaly](https://fiskaly.com) builds tools to make legal requirements for receipts simple. We help companies to easily integrate our products via API and offer a one click-solution for [e-receipts](https://receipt.fiskaly.com/) and fiscalizing POS systems. Our solutions enable compliance in innovative POS systems for retailers, businesses and POS providers.
 
 ### OUR MISSION
 
