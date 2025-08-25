@@ -4,15 +4,16 @@
 
 ### OUR VISION
 
-> Perfect products for fiscalization.
+> Perfect products for POS systems
 
-[fiskaly](https://fiskaly.com) builds tools to make legal requirements for receipts simple. We help companies to easily integrate our products via API and offer a one click-solution for [digital receipts](https://receipt.fiskaly.com/) and fiscalizing POS systems. Our solutions enable compliance in innovative POS systems for retailers, businesses and POS providers.
+[fiskaly](https://fiskaly.com) builds tools to make legal requirements for receipts simple. We provide cloud solutions via API for fiscalization, tax data archiving, and electronic receipts and invoices. Our services help retailers and POS vendors to comply with complex country-specific regulations in Austria, Germany, Spain, Italy and France. 
 
 ### OUR MISSION
 
 > We strive to become the best cloud based signature provider.
 
-[fiskaly](https://fiskaly.com) is the leading provider for a cloud-based solution regarding fiscalization in Germany and Austria. We are on a mission to make the world a safe and fair place by enabling trusted records. Our team provides a robust and reliable digital signature service to ensure the legitimacy of your receipts, while keeping the solution simple and convenient.
+[fiskaly](https://fiskaly.com) is on a mission to simplify regulatory compliance, providing intuitive solutions that foster growth and fairness in the business world. We’re dedicated to crafting a future where regulatory processes are no longer a hurdle, but a catalyst for transparency and ethical business.
+
 
 ### WORK WITH US 👩‍💻🧑‍💻
 
